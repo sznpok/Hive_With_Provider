@@ -1,4 +1,4 @@
-# firstapp
+# Hive with provider
 
 A new Flutter application.
 
